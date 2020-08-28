@@ -4,7 +4,7 @@ https://anchor.fm/ayunascode/episodes/Microsoft-LEAP-Nigeria-Interview-with-Sara
 https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
 
-
+https://10fastfingers.com/typing-test/english
 https://apidocsfordevs.com/
 https://designresourc.es/
 https://about.gitlab.com/job-families/engineering/support-engineer/
