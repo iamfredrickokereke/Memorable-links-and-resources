@@ -3,6 +3,8 @@ https://threadreaderapp.com/thread/1287950733380218880.html
 https://anchor.fm/ayunascode/episodes/Microsoft-LEAP-Nigeria-Interview-with-Sarah-Nmachi-Anueyiagu-eflonm
 https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
+https://learning.darey.io/
+
 
 https://10fastfingers.com/typing-test/english
 https://apidocsfordevs.com/
