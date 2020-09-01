@@ -4,7 +4,7 @@ https://anchor.fm/ayunascode/episodes/Microsoft-LEAP-Nigeria-Interview-with-Sara
 https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
 https://learning.darey.io/
-
+https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 https://joeprevite.com/learn-quickly
 https://10fastfingers.com/typing-test/english
 https://apidocsfordevs.com/
