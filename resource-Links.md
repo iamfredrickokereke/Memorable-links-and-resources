@@ -3,6 +3,9 @@ https://threadreaderapp.com/thread/1287950733380218880.html
 https://anchor.fm/ayunascode/episodes/Microsoft-LEAP-Nigeria-Interview-with-Sarah-Nmachi-Anueyiagu-eflonm
 https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
+
+Gitlab CLI tool
+https://gitlab.com/shank-utils/gitlab-cli
 https://learning.darey.io/
 https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 https://joeprevite.com/learn-quickly
