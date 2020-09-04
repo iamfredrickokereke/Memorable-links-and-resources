@@ -8,6 +8,7 @@ Gitlab CLI tool
 https://docs.gitlab.com/ee/university/
 https://github.com/profclems/glab
 https://gitlab.com/shank-utils/gitlab-cli
+https://alvinalexander.com/linux/unix-linux-crontab-every-minute-hour-day-syntax/
 https://learning.darey.io/
 https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 https://joeprevite.com/learn-quickly
