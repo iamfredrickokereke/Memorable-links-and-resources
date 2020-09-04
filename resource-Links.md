@@ -5,6 +5,7 @@ https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
 
 Gitlab CLI tool
+https://docs.gitlab.com/ee/university/
 https://github.com/profclems/glab
 https://gitlab.com/shank-utils/gitlab-cli
 https://learning.darey.io/
