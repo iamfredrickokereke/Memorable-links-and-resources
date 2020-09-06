@@ -6,6 +6,7 @@ https://whatshouldicode.netlify.app/
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Cron-Tasks
 Gitlab CLI tool
 https://docs.gitlab.com/ee/university/
+https://t.co/iIM7Rb8PrR?amp=1
 https://github.com/profclems/glab
 https://gitlab.com/shank-utils/gitlab-cli
 https://alvinalexander.com/linux/unix-linux-crontab-every-minute-hour-day-syntax/
