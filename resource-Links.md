@@ -3,6 +3,7 @@ https://threadreaderapp.com/thread/1287950733380218880.html
 https://anchor.fm/ayunascode/episodes/Microsoft-LEAP-Nigeria-Interview-with-Sarah-Nmachi-Anueyiagu-eflonm
 https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
+https://afridads.com/lifestyle/etiquette/etiquette-the-best-kept-secret-of-outstanding-manliness/
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Cron-Tasks
 Gitlab CLI tool
 https://docs.gitlab.com/ee/university/
