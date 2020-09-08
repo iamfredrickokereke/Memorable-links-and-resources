@@ -6,6 +6,7 @@ https://whatshouldicode.netlify.app/
 https://afridads.com/lifestyle/etiquette/etiquette-the-best-kept-secret-of-outstanding-manliness/
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Cron-Tasks
 Gitlab CLI tool
+https://drive.google.com/file/d/1w97gY2f_2lw2hbuucNkowrVhpBw2uZcT/view
 https://docs.gitlab.com/ee/university/
 https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/?WT.mc_id=StudentContent__-social-cxa
 https://t.co/iIM7Rb8PrR?amp=1
