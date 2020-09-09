@@ -5,6 +5,7 @@ https://frontendmasters.com/courses/node-js/what-is-node-js/
 https://whatshouldicode.netlify.app/
 https://afridads.com/lifestyle/etiquette/etiquette-the-best-kept-secret-of-outstanding-manliness/
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Cron-Tasks
+https://learn.gitlab.com/c/gitops-panel?x=H2TMk5
 Gitlab CLI tool
 https://drive.google.com/file/d/1w97gY2f_2lw2hbuucNkowrVhpBw2uZcT/view
 https://docs.gitlab.com/ee/university/
