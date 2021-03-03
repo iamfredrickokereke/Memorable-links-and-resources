@@ -4,6 +4,7 @@ https://www.arlenmccluskey.com/
 https://roadmap.sh/devops
 https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf
 https://github.com/BretFisher/ama/issues/7
+https://www.ques10.com/p/8333/what-is-agility-in-context-of-software-engineeri-1/
 
 https://github.com/sidpalas/storybooks
 https://kube101.jeffgeerling.com/
