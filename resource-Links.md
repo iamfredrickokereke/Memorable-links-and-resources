@@ -1,4 +1,4 @@
-https://www.arlenmccluskey.com/
+
 
 ## Devops
 https://roadmap.sh/devops
@@ -61,6 +61,7 @@ https://docs.google.com/presentation/d/1m7PtT8vDPqFft3wHFBM3kVURtNlyW0ioBKh6OUkI
 https://play.golang.org/p/pmNouT5FE9C
 
 #Resume
+https://www.arlenmccluskey.com/
 https://somtozech.netlify.app/
 https://muhannad.io/
 https://github.com/Ileriayo
