@@ -78,6 +78,7 @@ https://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/fragments
 https://training.fortinet.com/
 
 #For AWS
+curl -6 -v https://checkip.amazonaws.com
 https://www.parkmycloud.com/blog/aws-credits/
 https://drive.google.com/file/d/1ULGkYhlu74zBqfV82cvspAMYifUBoo6_/view
 https://data-flair.training/blogs/aws-quiz/
