@@ -85,6 +85,9 @@ https://data-flair.training/blogs/aws-quiz/
 https://docs.google.com/forms/d/e/1FAIpQLSfqM1n52MKka6SiGri5SQWT180Q9puGG_5nIgttB1jfwaQfIg/viewform  - ANUG 
 https://www.udemy.com/course/aws-hands-on-labs-2020-step-by-step-for-beginners-new/
 Exams - https://www.awsboy.com/
+https://docs.amazonaws.cn/en_us/general/latest/gr/aws-arns-and-namespaces.html
+https://devopsmyway.com/aws-policy-generator-create-iam-policy/
+https://devopscube.com/aws-arn-guide/
 https://awsicons.dev/
 Learn python in one month - https://medium.com/@jhankar.mahbub/learn-and-master-python-in-a-month-b1acc94d5f32
 https://openhack.microsoft.com/
