@@ -2,6 +2,7 @@
 
 ## Devops
 https://roadmap.sh/devops
+https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs
 https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf
 https://github.com/BretFisher/ama/issues/7
 https://www.ques10.com/p/8333/what-is-agility-in-context-of-software-engineeri-1/
