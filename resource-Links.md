@@ -2,6 +2,7 @@
 
 ## Devops
 https://roadmap.sh/devops
+https://www.youtube.com/watch?v=tm69qZXYzRU
 https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs
 https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf
 https://github.com/BretFisher/ama/issues/7
