@@ -18,6 +18,7 @@ https://github.com/kodekloudhub/shell-scripting-for-beginners-course
 https://www.youtube.com/playlist?list=PL5bUlblGfe0Kg2qusPaH2ZZ0poAmXZE2V
 https://www.tutorialspoint.com/windows10/windows10_virtualization.htm
 https://content.netdevgroup.com/contents/unhatched/400/
+https://stackoverflow.com/questions/44711696/jenkins-403-no-valid-crumb-was-included-in-the-request/44732702#44732702
 https://drive.google.com/drive/u/0/folders/1EPPG1LCL79xYC1s7Mzryhyo0FJziw0IO
 https://www.linkedin.com/learning/devops-foundations-your-first-project
 https://dev.to/kmugrage/my-definition-of-devops-2baj
