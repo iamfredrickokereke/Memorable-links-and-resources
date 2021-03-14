@@ -22,6 +22,7 @@ https://drive.google.com/drive/u/0/folders/1EPPG1LCL79xYC1s7Mzryhyo0FJziw0IO
 https://www.linkedin.com/learning/devops-foundations-your-first-project
 https://dev.to/kmugrage/my-definition-of-devops-2baj
 https://dev.to/boobo94/install-nginx-on-linux-with-ssl-certificate-18ic
+https://devopscube.com/jenkins-build-trigger-github-pull-request/
 
 #cloud
 https://github.com/100DaysOfCloud/100DaysOfCloud
