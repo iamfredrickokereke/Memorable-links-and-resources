@@ -10,6 +10,7 @@ https://www.ques10.com/p/8333/what-is-agility-in-context-of-software-engineeri-1
 https://trello.com/b/ZFVSb8ZA/volunteer-handbook
 https://github.com/sidpalas/storybooks
 https://kube101.jeffgeerling.com/
+https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9/
 https://github.com/awesome-lists/awesome-bash
 https://medium.com/@devopslearning/my-road-to-certified-jenkins-engineer-807ae52409a0
 https://docs.google.com/document/d/1wX903e3BeFYYFBUBazUuL2rsUHdsR9sG0LErJF95yZE/edit
