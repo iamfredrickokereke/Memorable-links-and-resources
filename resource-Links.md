@@ -84,6 +84,7 @@ https://training.fortinet.com/
 
 #For AWS
 curl -6 -v https://checkip.amazonaws.com
+https://stackoverflow.com/questions/36427376/the-aws-access-key-id-needs-a-subscription-for-the-service
 https://www.parkmycloud.com/blog/aws-credits/
 https://drive.google.com/file/d/1ULGkYhlu74zBqfV82cvspAMYifUBoo6_/view
 https://data-flair.training/blogs/aws-quiz/
