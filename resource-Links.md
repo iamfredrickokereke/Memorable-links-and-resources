@@ -109,6 +109,8 @@ https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP
 https://edabit.com/challenges/csharp
 https://t.co/Sxv9JfsiUv?amp=1
 
+## Python
+https://github.com/talkpython/100daysofcode-with-python-course
 
 ## SysAdmin
 https://onehack.us/t/awesome-sysadmin-massive-resources-collection/171359
