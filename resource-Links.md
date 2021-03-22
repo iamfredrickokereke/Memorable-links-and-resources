@@ -65,6 +65,10 @@ https://docs.google.com/presentation/d/1m7PtT8vDPqFft3wHFBM3kVURtNlyW0ioBKh6OUkI
 #Go
 https://play.golang.org/p/pmNouT5FE9C
 
+#Python
+https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
+
 #Resume
 https://www.arlenmccluskey.com/
 https://somtozech.netlify.app/
