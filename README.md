@@ -1,4 +1,4 @@
 # Memorable-links-and-resources
-These repository contains Awesome links regarding severla subjects and resource.
+These repository contains Awesome links regarding several topics and subject matter.
 
 This is exclusively for referencing.
