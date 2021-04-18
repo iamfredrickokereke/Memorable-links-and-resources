@@ -1,1 +1,1 @@
-https://juniortosenior.io/35
+https://juniortosenior.io/
