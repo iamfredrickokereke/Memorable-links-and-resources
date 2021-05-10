@@ -30,6 +30,8 @@ https://devopscube.com/jenkins-build-trigger-github-pull-request/
 https://github.com/100DaysOfCloud/100DaysOfCloud
 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
+https://dev.to/philiphaines/beautify-your-github-40hh
+
 #Debug links
 https://www.youtube.com/watch?v=JXDuVypcHNA
 https://www.digitalocean.com/community/questions/error-2002-hy000-can-t-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysqld-sock-2
