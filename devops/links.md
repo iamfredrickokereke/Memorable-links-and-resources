@@ -10,6 +10,7 @@ https://stackoverflow.com/questions/6682740/how-can-i-unstage-my-files-again-aft
 ## Docker
 
 https://github.com/wsargent/docker-cheat-sheet
+https://dev.to/ahmednader10/zero-to-kubernetes-in-5-mins-2hbp
 
 ## Companies
 https://themobileprof.com/
