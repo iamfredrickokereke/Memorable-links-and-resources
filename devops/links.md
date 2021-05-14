@@ -2,6 +2,7 @@
 ## Ansible
 
 Set - time zone - https://gist.github.com/garethrees/5591027
+Course  -  https://pythoholic.com/courses/ultimate-beginners-course-on-ansible-by-pythoholic/
 
 ## Git Reset Commit
 
@@ -16,4 +17,3 @@ https://dev.to/ahmednader10/zero-to-kubernetes-in-5-mins-2hbp
 https://themobileprof.com/
 
 
-https://pythoholic.com/courses/ultimate-beginners-course-on-ansible-by-pythoholic/
