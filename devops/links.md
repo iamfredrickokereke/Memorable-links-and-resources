@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/6682740/how-can-i-unstage-my-files-again-aft
 
 https://github.com/wsargent/docker-cheat-sheet
 https://dev.to/ahmednader10/zero-to-kubernetes-in-5-mins-2hbp
+https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/
 
 ## Companies
 https://themobileprof.com/
