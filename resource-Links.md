@@ -115,6 +115,7 @@ https://vahiwe.github.io/
 ## C#
 https://edabit.com/challenges/csharp
 https://t.co/Sxv9JfsiUv?amp=1
+https://www.c-sharpcorner.com/article/difference-between-net-framework-and-net-core/
 
 ## Python
 https://github.com/talkpython/100daysofcode-with-python-course
