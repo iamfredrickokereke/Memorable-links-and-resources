@@ -3,3 +3,6 @@ Security to product designer @ facebook
 
 Hpw Twitch Founder lost $75 million
 - https://www.youtube.com/watch?v=3dANQmtlkEo
+
+Mary - Med to 200 tech salary
+- https://www.listennotes.com/podcasts/diversified-game/mary-awodele-gives-the-game-BKyUkQ6N48w/
