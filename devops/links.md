@@ -4,7 +4,7 @@
 Set - time zone - https://gist.github.com/garethrees/5591027
 Course  -  https://pythoholic.com/courses/ultimate-beginners-course-on-ansible-by-pythoholic/
 
-https://schwartzdaniel.com/install-and-configure-ansible-to-start-your-packet-capture/
+roles - https://schwartzdaniel.com/install-and-configure-ansible-to-start-your-packet-capture/
 
 https://medium.com/@chandank.kumar/ansible-vs-puppet-dont-fight-anymore-we-need-both-dd5c090f6f61
 
