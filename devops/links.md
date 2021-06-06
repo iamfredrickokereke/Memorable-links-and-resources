@@ -25,3 +25,4 @@ https://kodekloud.com/courses
 
 ## Kubernetes
 - bmc.com/blogs/kubernetes-certifications/
+- https://medium.com/javarevisited/7-free-online-courses-to-learn-kubernetes-in-2020-3b8a68ec7abc
