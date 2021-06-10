@@ -28,3 +28,6 @@ https://kodekloud.com/courses
 - https://medium.com/javarevisited/7-free-online-courses-to-learn-kubernetes-in-2020-3b8a68ec7abc
 - https://medium.com/platformer-blog/how-i-passed-the-cka-certified-kubernetes-administrator-exam-8943aa24d71d
 - https://devopsarena.medium.com/provision-gke-cluster-with-terraform-28bf2973c3d4
+
+## CI
+- https://github.com/ligurio/awesome-ci
