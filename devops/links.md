@@ -8,9 +8,6 @@ roles - https://schwartzdaniel.com/install-and-configure-ansible-to-start-your-p
 
 https://medium.com/@chandank.kumar/ansible-vs-puppet-dont-fight-anymore-we-need-both-dd5c090f6f61
 
-## Git Reset Commit
-
-https://stackoverflow.com/questions/6682740/how-can-i-unstage-my-files-again-after-making-a-local-commit
 
 ## Docker
 
