@@ -29,3 +29,7 @@ https://kodekloud.com/courses
 ## CI
 - https://github.com/ligurio/awesome-ci
 - https://github.com/cicdops/awesome-ciandcd
+
+
+## Lessons from Devops Engineers
+- https://www.youtube.com/watch?v=UTKIT6STSVM
