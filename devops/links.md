@@ -31,6 +31,9 @@ https://kodekloud.com/courses
 - https://github.com/cicdops/awesome-ciandcd
 - https://layerci.com/blog/what-is-devops/
 
+## Low latency using WebRTC and Headless Chrome
+- https://blog.crowdcast.io/post/broadcasting-webrtc-over-low-latency-dash
+- 
 
 ## Lessons from Devops Engineers
 - https://www.youtube.com/watch?v=UTKIT6STSVM
