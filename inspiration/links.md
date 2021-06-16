@@ -6,3 +6,6 @@ Hpw Twitch Founder lost $75 million
 
 Mary - Med to $200 thousand tech salary
 - https://www.listennotes.com/podcasts/diversified-game/mary-awodele-gives-the-game-BKyUkQ6N48w/
+
+Tech Podcast - Devlife
+- https://anchor.fm/thisdevlife/episodes/
