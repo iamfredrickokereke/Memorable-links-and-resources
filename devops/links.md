@@ -12,6 +12,7 @@ https://medium.com/@chandank.kumar/ansible-vs-puppet-dont-fight-anymore-we-need-
 ## Docker
 
 https://github.com/wsargent/docker-cheat-sheet
+https://www.notion.so/Dockerization-e2c8d097cf2949f3ae58f0b5feac4f47
 https://dev.to/ahmednader10/zero-to-kubernetes-in-5-mins-2hbp
 https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/
 
