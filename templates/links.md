@@ -1,2 +1,3 @@
-Html
-https://github.com/mdn/beginner-html-site-styled
+Html styled template
+
+- https://github.com/mdn/beginner-html-site-styled
