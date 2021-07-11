@@ -9,3 +9,6 @@ Mary - Med to $200 thousand tech salary
 
 Tech Podcast - Devlife
 - https://anchor.fm/thisdevlife/episodes/
+
+Nigerian Ford Story
+- https://www.youtube.com/watch?v=tNI1xVVY1cw
