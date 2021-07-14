@@ -6,3 +6,7 @@
 ## Chmod 0400 keyfile on AWS
 - https://gist.github.com/jaskiratr/cfacb332bfdff2f63f535db7efb6df93
 - https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open
+
+
+## Docker npm build
+- https://github.com/IBM/container-service-getting-started-wt/issues/92
