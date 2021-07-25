@@ -40,3 +40,5 @@ https://kodekloud.com/courses
 - https://www.youtube.com/watch?v=UTKIT6STSVM
 
 ## Linux
+
+- https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
