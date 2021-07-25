@@ -38,3 +38,5 @@ https://kodekloud.com/courses
 
 ## Lessons from Devops Engineers
 - https://www.youtube.com/watch?v=UTKIT6STSVM
+
+## Linux
