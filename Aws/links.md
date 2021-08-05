@@ -8,5 +8,5 @@
 
 https://jayendrapatil.com/#AWS_Certification_Catalog
 
-## AWS SERVERLESS - 
+## AWS SERVERLESS - AMPLIFY, COGNITO, DYNAMODB, 
 - https://webapp.serverlessworkshops.io/
