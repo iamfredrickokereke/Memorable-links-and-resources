@@ -1,3 +1,3 @@
-https://www.softwaretestingmaterial.com/test-scenarios-registration-form/
+- https://www.softwaretestingmaterial.com/test-scenarios-registration-form/
 
-https://testautomationu.applitools.com/learningpaths.html
+- https://testautomationu.applitools.com/learningpaths.html
