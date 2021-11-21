@@ -4,3 +4,5 @@
 
 ## kubescape - k8s vulnerability scan
 - https://stackshare.io/kubescape
+
+https://www.freecodecamp.org/news/the-kubernetes-handbook/
