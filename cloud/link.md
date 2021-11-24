@@ -1,2 +1,3 @@
 - https://cloudresumechallenge.dev/
 - https://github.com/openupthecloud/cloud-resume-challenge
+- https://www.gocloudarchitects.com/free-cloud-webinar/
