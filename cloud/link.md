@@ -1,3 +1,4 @@
 - https://cloudresumechallenge.dev/
 - https://github.com/openupthecloud/cloud-resume-challenge
 - https://www.gocloudarchitects.com/free-cloud-webinar/
+- https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
