@@ -4,3 +4,6 @@
 
 ## Payloads
 - https://github.com/swisskyrepo/PayloadsAllTheThings
+
+## Google Andriod bug hunting
+- https://bughunters.google.com/learn/presentations/5783688075542528
