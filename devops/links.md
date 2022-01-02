@@ -45,3 +45,5 @@ https://kodekloud.com/courses
 
 ## Devops salary tip
 https://about.gitlab.com/blog/2021/10/20/four-tips-to-increase-your-devops-salary/
+
+## Agile Development
