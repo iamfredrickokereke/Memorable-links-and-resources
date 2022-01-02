@@ -44,7 +44,7 @@ https://kodekloud.com/courses
 - https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
 
 ## Devops salary tip
-https://about.gitlab.com/blog/2021/10/20/four-tips-to-increase-your-devops-salary/
+- https://about.gitlab.com/blog/2021/10/20/four-tips-to-increase-your-devops-salary/
 
 ## Agile Development
 - https://agilemanifesto.org/
