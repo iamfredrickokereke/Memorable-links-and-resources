@@ -17,3 +17,5 @@ https://sourceforge.net/projects/websecuritydojo
 
 ## ctf
 - Tryhackme - https://tryhackme.com/paths
+
+## standford ferros web security course
