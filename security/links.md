@@ -20,3 +20,4 @@ https://sourceforge.net/projects/websecuritydojo
 
 ## standford ferros web security course
 - https://online.stanford.edu/courses/xcs100-introduction-web-security
+- https://web.stanford.edu/class/cs253/
