@@ -19,3 +19,4 @@ https://sourceforge.net/projects/websecuritydojo
 - Tryhackme - https://tryhackme.com/paths
 
 ## standford ferros web security course
+- https://online.stanford.edu/courses/xcs100-introduction-web-security
