@@ -7,5 +7,5 @@
 
 - https://jayendrapatil.com/#AWS_Certification_Catalog
 
-## AWS SERVERLESS - AMPLIFY, COGNITO, DYNAMODB, CODE PIPELINE
+## AWS SERVERLESS - AMPLIFY, COGNITO, DYNAMODB, CODE PIPELINEs
 - https://webapp.serverlessworkshops.io/
