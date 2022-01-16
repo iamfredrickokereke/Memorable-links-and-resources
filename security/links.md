@@ -13,6 +13,8 @@
 - https://www.virustotal.com/gui/home/upload
 
 
+https://github.com/Hack-with-Github/Awesome-Hacking
+
 https://sourceforge.net/projects/websecuritydojo
 
 ## ctf
