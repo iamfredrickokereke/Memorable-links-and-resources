@@ -6,5 +6,5 @@
 - https://www.red-gate.com/simple-talk/blogs/deploying-a-nodejs-application-from-github-to-aws-elastic-beanstalk-and-creating-a-ci-cd-aws-codepipeline/
 - https://jayendrapatil.com/#AWS_Certification_Catalog
 
-## AWS SERVERLESS - AMPLIFY, COGNITO, DYNAMODB, CODE PIPELINEs
+## AWS SERVERLESS 
 - https://webapp.serverlessworkshops.io/
