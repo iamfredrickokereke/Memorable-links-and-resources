@@ -21,3 +21,6 @@
 ## standford ferros web security course
 - https://online.stanford.edu/courses/xcs100-introduction-web-security
 - https://web.stanford.edu/class/cs253/
+
+## Pentest curriculum
+- https://0xadamu.notion.site/7e72243984ad48b1be21c5411ca26a68?v=d1ad5de10b754403b3884e578591188f
