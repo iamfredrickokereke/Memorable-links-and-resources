@@ -3,7 +3,3 @@ These repository contains Awesome links regarding several topics and subject mat
 
 This is exclusively for referencing.
 
-
-
-
-
