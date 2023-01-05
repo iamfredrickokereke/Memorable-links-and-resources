@@ -13,5 +13,5 @@ Tech Podcast - Devlife
 Nigerian Ford Story
 - https://www.youtube.com/watch?v=tNI1xVVY1cw
 
-
-https://tryhackme.com/resources/blog/construction-worker-to-security-engineer-how-paul-used-tryhackme-to-land-his-first-job-in-security
+Security new job for beginners
+- https://tryhackme.com/resources/blog/construction-worker-to-security-engineer-how-paul-used-tryhackme-to-land-his-first-job-in-security
